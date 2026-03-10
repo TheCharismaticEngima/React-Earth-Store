@@ -1,0 +1,21 @@
+.about-mission{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    padding: 100px 0;
+}
+.text{
+    height: 300px;
+    width: 30%;
+    letter-spacing: 1px;
+    
+    padding-right: 100px;
+}
+.text h1{
+    margin-bottom: 10px;
+    text-align: start;
+}
+.text p {
+    line-height: 1.5;
+    text-align: justify;
+}

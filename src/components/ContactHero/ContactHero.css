@@ -1,0 +1,19 @@
+.contact-hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+    background: linear-gradient(rgba(235, 235, 235, 0.3), rgba(255,255,255,0.3)), 
+                      url('https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1920');;
+    background-size: cover;
+            }
+
+.contact-hero h1{
+     font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 600;
+    color: rgb(54, 105, 54);
+    font-family: cursive;
+    text-align: center;
+}
